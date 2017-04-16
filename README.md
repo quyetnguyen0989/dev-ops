@@ -1,6 +1,7 @@
 # dev-ops
 practices dev-ops
 
+
 In Ansible:
 # ansible -i host -u root -m ping all
 # ansible -i hosts -u root -m shell -a 'date' webservers
