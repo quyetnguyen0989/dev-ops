@@ -1,5 +1,5 @@
 # dev-ops
-practices dev-ops
+Run ansible-playbook for install services
 
 
 In Ansible:
